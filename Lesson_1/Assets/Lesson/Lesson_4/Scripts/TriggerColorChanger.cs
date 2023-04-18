@@ -7,7 +7,5 @@ public class TriggerColorChanger : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("COLLISION");
-        Instantiate(obj, )
     }
 }
